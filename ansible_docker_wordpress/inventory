@@ -1,0 +1,6 @@
+[master]
+10.0.2.7
+
+[master:vars]
+ansible_ssh_user=serveruser
+ansible_ssh_pass=1qaz2wsx
