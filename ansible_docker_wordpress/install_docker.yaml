@@ -33,9 +33,6 @@
         - containerd.io
       update_cache: yes
 
-  - name: add userpermissions
-    shell: "usermod -aG docker serveruser"
-
   # Installs Docker SDK
   # --
   # 
@@ -48,7 +45,7 @@
       name: python3-docker
   
   - name: install python sdk
-    become_user: serveruser
+    become: yes
     pip:
       name:
         - docker
