@@ -1,5 +1,5 @@
 # TestCase
-	# H2 TestCase for Genesis DevOps shool
+	h2 TestCase for Genesis DevOps shool
 	---------------------------------------
 Tested between Ubuntu 20.04 and Ubuntu 20.04 running on VirtualBox installed on Win10
 run command
