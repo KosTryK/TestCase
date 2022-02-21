@@ -4,6 +4,13 @@
 <li>Real OS Windows 10</li>
 <li>Virtualbox 6.1.32 </li>
 <li>Virtual OS Ubuntu 20.04.3 LTS</li>
+<li>ansible [core 2.12.2]</li>
+<li>python version = 3.8.10 (default, Nov 26 2021, 20:14:08) [GCC 9.3.0]</li>
+<li>jinja version = 2.10.1</li>
+<li>pip 22.0.3</li>
+
+
+	
 </ol>
 Tested between Ubuntu 20.04.3 LTS and 20.04.3 LTS running on VirtualBox 6.1.32
 
